@@ -88,6 +88,9 @@ class embedManage(object):
 class Ragger(object):
 
     def __init__(self,program_name,new_model=False,new_enhance=False):
+
+        if not os.path.exists(f'{args.model_path}/Trans_Implementation/data'):os.makedirs(f'{args.model_path}/Trans_Implementation/data')
+        if not os.path.exists(f'{args.model_path}/Trans_Implementation/source/dict'):os.makedirs(f'{args.model_path}/Trans_Implementation/source/dict')
         
         generateDataDict(renew=False)
         generateDataStatistic(renew=False)
