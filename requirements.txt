@@ -1,0 +1,16 @@
+clingo==5.5.2
+numpy==1.19.3
+numpy==1.18.4
+numpy==1.19.5
+ordered_set==4.1.0
+pandas==0.23.0
+pandas==1.1.5
+pandas==1.2.4
+pyswip==0.2.11
+torch==1.7.1
+torch==1.7.1.info
+torch==1.10.2
+torch==1.10.1+cu113
+tqdm==4.64.0
+tqdm==4.61.2
+tqdm==4.62.3
