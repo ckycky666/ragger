@@ -71,6 +71,29 @@ Additionally, the code includes a function `revamp(self, indicator, bad_rule_lim
 
 ## Publication
 
+Refer to the following publication for details of the models and experiments.
+
+- [Optimize rule mining based on constraint learning in knowledge graph](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_7)
 
 ## Cite Ragger
 
+If you use this package for published work, please cite the following:
+
+    @InProceedings{10.1007/978-981-97-5498-4_7,
+    author="Cai, Kaiyue
+        and Wang, Xinzhi
+        and Luo, Xiangfeng",
+    editor="Cao, Cungeng
+        and Chen, Huajun
+        and Zhao, Liang
+        and Arshad, Junaid
+        and Asyhari, Taufiq
+        and Wang, Yonghao",
+    title="Optimize Rule Mining Based on Constraint Learning in Knowledge Graph",
+    booktitle="Knowledge Science, Engineering and Management",
+    year="2024",
+    publisher="Springer Nature Singapore",
+    address="Singapore",
+    pages="82--98",
+    isbn="978-981-97-5498-4"
+    }
